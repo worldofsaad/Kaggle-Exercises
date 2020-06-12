@@ -3,5 +3,10 @@
  Link here: https://www.kaggle.com/learn/overview
  Please follow me at: https://www.kaggle.com/worldofsaad
  
+ ## 1. Python:
+ Revised the most important language for data science.
+ - **Hello, Python**: A quick introduction to Python syntax, variable assignment, and numbers
+
+ 
  
  
