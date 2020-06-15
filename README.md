@@ -11,7 +11,7 @@
 - **Lists**: Lists and the things you can do with them. Includes indexing, slicing and mutating
 - **Loops and List Comprehensions**: For and while loops, and a much-loved Python feature: list comprehensions
 - **Strings and Dictionaries**: Working with strings and dictionaries, two fundamental Python data types
-
+**Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/python*
 
 
 
