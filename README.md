@@ -13,6 +13,13 @@
 - **Strings and Dictionaries**: Working with strings and dictionaries, two fundamental Python data types
 **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/python*
 
+## 2. Intro to Machine Learning:
+Revising the core ideas in machine learning, and building models.
+- **Basic Data Exploration**: Load and understand your data
+
+
+
+
 
 
 
