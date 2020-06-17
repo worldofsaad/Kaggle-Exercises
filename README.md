@@ -17,6 +17,8 @@
 Revising the core ideas in machine learning, and building models.
 - **Basic Data Exploration**: Load and understand your data
 - **Your First Machine Learning Model**: Building your first model. Hurray!
+- **Underfitting and Overfitting**: Fine-tune your model for better performance.
+
 
 
 
