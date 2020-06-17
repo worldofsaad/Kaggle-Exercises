@@ -19,6 +19,8 @@ Revising the core ideas in machine learning, and building models.
 - **Your First Machine Learning Model**: Building your first model. Hurray!
 - **Model Validation**: Measure the performance of your model ? so you can test and compare alternatives
 - **Underfitting and Overfitting**: Fine-tune your model for better performance.
+- **Random Forests**: Using a more sophisticated machine learning algorithm.
+
 
 
 
