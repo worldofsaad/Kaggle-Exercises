@@ -11,7 +11,9 @@
 - **Lists**: Lists and the things you can do with them. Includes indexing, slicing and mutating
 - **Loops and List Comprehensions**: For and while loops, and a much-loved Python feature: list comprehensions
 - **Strings and Dictionaries**: Working with strings and dictionaries, two fundamental Python data types
+
 - **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/python*
+
 
 ## 2. Intro to Machine Learning:
 Revising the core ideas in machine learning, and building models.
@@ -21,6 +23,8 @@ Revising the core ideas in machine learning, and building models.
 - **Underfitting and Overfitting**: Fine-tune your model for better performance.
 - **Random Forests**: Using a more sophisticated machine learning algorithm.
 - **Exercise: Machine Learning Competitions**: Enter the world of machine learning competitions to keep improving and see your progress
+- **Getting Started With Titanic**: Create your own Kaggle Notebooks to organize your work in competitions.
+
 - **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/intro-to-machine-learning*
 
 
