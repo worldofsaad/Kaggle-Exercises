@@ -26,7 +26,11 @@ Revising the core ideas in machine learning, and building models.
 - **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/intro-to-machine-learning*
 
 
-## 2. Intro to Machine Learning:
+## 3. Intermediate Machine Learning
+Learn to handle missing values, non-numeric values, data leakage and more. Your models will be more accurate and useful.
+- **Missing Values**: Missing values happen. Be prepared for this common challenge in real datasets.
+- **Categorical Variables**: There's a lot of non-numeric data out there. Here's how to use it for machine learning
+
 
 
 
