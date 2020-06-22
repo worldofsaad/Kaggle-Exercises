@@ -26,6 +26,8 @@ Revising the core ideas in machine learning, and building models.
 - **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/intro-to-machine-learning*
 
 
+## 2. Intro to Machine Learning:
+
 
 
 
