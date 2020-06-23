@@ -30,6 +30,8 @@ Revising the core ideas in machine learning, and building models.
 Learn to handle missing values, non-numeric values, data leakage and more. Your models will be more accurate and useful.
 - **Missing Values**: Missing values happen. Be prepared for this common challenge in real datasets.
 - **Categorical Variables**: There's a lot of non-numeric data out there. Here's how to use it for machine learning
+- **Pipelines**: A critical skill for deploying (and even testing) complex models with pre-processing
+
 
 
 
