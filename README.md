@@ -31,6 +31,12 @@ Learn to handle missing values, non-numeric values, data leakage and more. Your 
 - **Missing Values**: Missing values happen. Be prepared for this common challenge in real datasets.
 - **Categorical Variables**: There's a lot of non-numeric data out there. Here's how to use it for machine learning
 - **Pipelines**: A critical skill for deploying (and even testing) complex models with pre-processing
+- **Cross-Validation**: A better way to test your models
+- **XGBoost**: The most accurate modeling technique for structured data
+- **Data Leakage**: Find and fix this problem that ruins your model in subtle ways
+
+
+
 
 
 
