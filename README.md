@@ -34,7 +34,7 @@ Learn to handle missing values, non-numeric values, data leakage and more. Your 
 - **Cross-Validation**: A better way to test your models
 - **XGBoost**: The most accurate modeling technique for structured data
 - **Data Leakage**: Find and fix this problem that ruins your model in subtle ways
-
+- **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/intermediate-machine-learning*
 
 
 
