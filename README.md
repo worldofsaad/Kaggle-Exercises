@@ -41,6 +41,8 @@ Learn to handle missing values, non-numeric values, data leakage and more. Your 
 Make great data visualizations. A great way to see the power of coding!
 - **Hello, Seaborn**: Your first introduction to coding for data visualization
 - **Line Charts**: Visualize trends over time
+- **Bar Charts and Heatmaps**: Use color or length to compare categories in a dataset
+
 
 
 
