@@ -37,6 +37,11 @@ Learn to handle missing values, non-numeric values, data leakage and more. Your 
 - **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/intermediate-machine-learning*
 
 
+## 4. Data Visualization
+Make great data visualizations. A great way to see the power of coding!
+
+
+
 
 
 
