@@ -42,6 +42,8 @@ Make great data visualizations. A great way to see the power of coding!
 - **Hello, Seaborn**: Your first introduction to coding for data visualization
 - **Line Charts**: Visualize trends over time
 - **Bar Charts and Heatmaps**: Use color or length to compare categories in a dataset
+- **Scatter Plot**: Leverage the coordinate plane to explore relationships between variables
+
 
 
 
