@@ -44,6 +44,8 @@ Make great data visualizations. A great way to see the power of coding!
 - **Bar Charts and Heatmaps**: Use color or length to compare categories in a dataset
 - **Scatter Plot**: Leverage the coordinate plane to explore relationships between variables
 - **Distributions**: Create histograms and density plots
+- **Choosing Plot Types and Custom Styles**: Customize your charts and make them look snazzy
+
 
 
 
