@@ -45,7 +45,7 @@ Make great data visualizations. A great way to see the power of coding!
 - **Scatter Plot**: Leverage the coordinate plane to explore relationships between variables
 - **Distributions**: Create histograms and density plots
 - **Choosing Plot Types and Custom Styles**: Customize your charts and make them look snazzy
-
+- **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/data-visualization*
 
 
 
