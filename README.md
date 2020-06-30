@@ -51,6 +51,7 @@ Make great data visualizations. A great way to see the power of coding!
 ## 5. Pandas
 Solve short hands-on challenges to perfect your data manipulation skills.
 - **Creating, Reading and Writing**: You can't work with data if you can't read it. Get started here.
+- **Indexing, Selecting & Assigning**: Pro data scientists do this dozens of times a day. You can, too!
 
 
 
