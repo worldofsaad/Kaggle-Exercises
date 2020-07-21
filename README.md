@@ -56,26 +56,5 @@ Solve short hands-on challenges to perfect your data manipulation skills.
 - **Grouping and Sorting**: Scale up your level of insight. The more complex the dataset, the more this matters
 - **Data Types and Missing Values**: Deal with the most common progress-blocking problems
 - **Renaming and Combining**: Data comes in from many sources. Help it all make sense together
+- **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/pandas*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
