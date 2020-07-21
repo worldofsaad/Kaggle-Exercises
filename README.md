@@ -54,6 +54,8 @@ Solve short hands-on challenges to perfect your data manipulation skills.
 - **Indexing, Selecting & Assigning**: Pro data scientists do this dozens of times a day. You can, too!
 - **Summary Functions and Maps**: Extract insights from your data.
 - **Grouping and Sorting**: Scale up your level of insight. The more complex the dataset, the more this matters
+- **Data Types and Missing Values**: Deal with the most common progress-blocking problems
+
 
 
 
