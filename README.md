@@ -58,3 +58,8 @@ Solve short hands-on challenges to perfect your data manipulation skills.
 - **Renaming and Combining**: Data comes in from many sources. Help it all make sense together
 - **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/pandas*
 
+
+## 6. Feature Engineering
+Discover the most effective way to improve your models
+- **Baseline Model**: Building a baseline model as a starting point for feature engineering
+- **Categorical Encodings**: There are many ways to encode categorical data for modeling. Some are pretty clever.
