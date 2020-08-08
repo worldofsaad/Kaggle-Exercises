@@ -63,3 +63,5 @@ Solve short hands-on challenges to perfect your data manipulation skills.
 Discover the most effective way to improve your models
 - **Baseline Model**: Building a baseline model as a starting point for feature engineering
 - **Categorical Encodings**: There are many ways to encode categorical data for modeling. Some are pretty clever.
+- **Feature Generation**: The frequently useful case where you can combine data from multiple rows into useful features
+
