@@ -66,3 +66,7 @@ Discover the most effective way to improve your models
 - **Feature Generation**: The frequently useful case where you can combine data from multiple rows into useful features
 - **Feature Selection**: You can make a lot of features. Here's how to get the best set of features for your model.
 - **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/feature-engineering*
+
+
+## 7. Deep Learning
+- **TensorFlow Programming**: Start writing code using TensorFlow and Keras
