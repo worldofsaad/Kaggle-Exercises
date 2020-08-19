@@ -70,3 +70,5 @@ Discover the most effective way to improve your models
 
 ## 7. Deep Learning
 - **TensorFlow Programming**: Start writing code using TensorFlow and Keras
+- **Transfer Learning**: A powerful technique to build highly accurate models even with limited data.
+
