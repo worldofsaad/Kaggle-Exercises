@@ -72,5 +72,7 @@ Discover the most effective way to improve your models
 - **TensorFlow Programming**: Start writing code using TensorFlow and Keras
 - **Transfer Learning**: A powerful technique to build highly accurate models even with limited data.
 - **Data Augmentation**: Learn a simple trick that effectively increases amount of data available for model training.
+- **Deep Learning From Scratch**: Build models without transfer learning. Especially important for uncommon image types.
+
 
 
