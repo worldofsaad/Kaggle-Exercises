@@ -74,7 +74,7 @@ Discover the most effective way to improve your models
 - **Data Augmentation**: Learn a simple trick that effectively increases amount of data available for model training.
 - **Deep Learning From Scratch**: Build models without transfer learning. Especially important for uncommon image types.
 - **Dropout and Strides for Larger Models**: Make your models faster and reduce overfitting
-
+- **Certification**: *https://www.kaggle.com/learn/certification/worldofsaad/deep-learning*
 
 
 
