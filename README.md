@@ -73,6 +73,8 @@ Discover the most effective way to improve your models
 - **Transfer Learning**: A powerful technique to build highly accurate models even with limited data.
 - **Data Augmentation**: Learn a simple trick that effectively increases amount of data available for model training.
 - **Deep Learning From Scratch**: Build models without transfer learning. Especially important for uncommon image types.
+- **Dropout and Strides for Larger Models**: Make your models faster and reduce overfitting
+
 
 
 
